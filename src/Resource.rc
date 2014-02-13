@@ -1,0 +1,30 @@
+#include "Common.h"
+
+Icono ICON MOVEABLE PURE LOADONCALL DISCARDABLE "Icono.ico"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION APP_VERSION
+PRODUCTVERSION APP_VERSION
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040A04E4"
+        BEGIN
+            VALUE "Comments", "Juego de puzzles relacionados con el cambio clim\xE1tico"
+            VALUE "CompanyName", "La Anunciata Ikastetxea"
+            VALUE "FileDescription", "La ruleta del cambio clim\xE1tico"
+            VALUE "FileVersion", APP_VERSION_STR
+            VALUE "InternalName", "CambioClimatico"
+            VALUE "LegalCopyright", "Desarrollado por Iv\xE1n Matellanes"
+            VALUE "OriginalFilename", "CambioClimatico.exe"
+            VALUE "ProductName", "La ruleta del cambio clim\xE1tico"
+            VALUE "ProductVersion", APP_VERSION_STR
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x040A, 1252
+    END
+END

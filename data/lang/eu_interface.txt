@@ -1,0 +1,110 @@
+START_TITLE1
+KLIMA-ALDAKETAREN
+
+START_TITLE2
+ERRULETA
+
+START_PLAYERS
+Jokalari kopurua:
+
+START_JUGAR
+Jokatu
+
+START_SALIR
+Irten
+
+STATUS_CONGRATS
+Zorionak!
+
+STATUS_SEGURO
+Ziur al zaude irten nahi duzula?
+
+STATUS_ESCOGE_CONSONANTE
+Kontsonante bat aukeratu behar duzu
+
+STATUS_SELECCIONA_VOCAL
+Bokal bat aukeratu behar duzu
+
+STATUS_DEBE_RESOLVER
+"Ebatzi" sakatu behar duzu
+
+STATUS_DEBE_COMPRAR
+"Bokala erosi" sakatu behar duzu
+
+STATUS_DINERO_INSUFICIENTE
+Ez daukazu diru nahikoa (Prezioa: 100 £)
+
+STATUS_EQUIVOCADO
+Kale egin duzu! Ez duzu hurrengo puzzlea jokatuko
+
+STATUS_EQUIVOCADO_SOLO
+Kale egin duzu!
+
+STATUS_TIEMPO_AGOTADO
+Denbora pasa da, txanda galdu duzu
+
+STATUS_CONSONANTE_ERRONEA
+Kontsonante hori ez dago puzzlean
+
+STATUS_VOCAL_ERRONEA
+Bokal hori ez dago puzzlean
+
+STATUS_PRIMERO_TIRA
+Lehenbizi erruletari eragin behar diozu
+
+PLAY_TIRAR
+Eragin
+
+PLAY_COMPRAR
+Bokala erosi
+
+PLAY_RESOLVER
+Ebatzi
+
+PLAY_SALIR
+Irten
+
+PLAY_CANCELAR
+Atzera
+
+PLAY_REINICIAR
+Berrabiatu
+
+PLAY_JUGAR
+Berriz jokatu
+
+PLAY_SI
+Bai
+
+PLAY_NO
+Ez
+
+PLAY_PLAYER1
+1. jokalaria
+
+PLAY_PLAYER2
+2. jokalaria
+
+PLAY_PLAYER3
+3. jokalaria
+
+SCORE_TITLE
+Puntuazio orokorra
+
+SCORE_PANELES
+Ebatzitako puzzleak
+
+SCORE_PUNTOS
+Puntuazioa
+
+SCORE_GANADOR
+Irabazlea: 
+
+SCORE_EMPATE
+Berdinketa
+
+SCORE_NINGUNO
+Inor ez
+
+SCORE_CONTINUAR
+Jarraitu

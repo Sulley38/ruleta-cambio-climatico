@@ -1,0 +1,110 @@
+START_TITLE1
+LA RULETA DEL
+
+START_TITLE2
+CAMBIO CLIMÁTICO
+
+START_PLAYERS
+Número de jugadores:
+
+START_JUGAR
+Jugar
+
+START_SALIR
+Salir
+
+STATUS_CONGRATS
+¡Enhorabuena!
+
+STATUS_SEGURO
+¿Está seguro de que quiere abandonar?
+
+STATUS_ESCOGE_CONSONANTE
+Primero elija una consonante
+
+STATUS_SELECCIONA_VOCAL
+Seleccione una vocal o pulse "Cancelar"
+
+STATUS_DEBE_RESOLVER
+Debe pulsar en "Resolver"
+
+STATUS_DEBE_COMPRAR
+Primero debe pulsar en "Comprar vocal"
+
+STATUS_DINERO_INSUFICIENTE
+No tienes suficiente dinero (Precio: 100 £)
+
+STATUS_EQUIVOCADO
+¡Te has equivocado! No jugarás el próximo panel
+
+STATUS_EQUIVOCADO_SOLO
+¡Te has equivocado!
+
+STATUS_TIEMPO_AGOTADO
+El tiempo ha expirado, pierdes el turno
+
+STATUS_CONSONANTE_ERRONEA
+Esa consonante no está en el panel
+
+STATUS_VOCAL_ERRONEA
+Esa vocal no está en el panel
+
+STATUS_PRIMERO_TIRA
+Primero debe tirar de la ruleta
+
+PLAY_TIRAR
+Tirar
+
+PLAY_COMPRAR
+Comprar vocal
+
+PLAY_RESOLVER
+Resolver
+
+PLAY_SALIR
+Abandonar
+
+PLAY_CANCELAR
+Cancelar
+
+PLAY_REINICIAR
+Reiniciar
+
+PLAY_JUGAR
+Volver a jugar
+
+PLAY_SI
+Sí
+
+PLAY_NO
+No
+
+PLAY_PLAYER1
+Jugador 1
+
+PLAY_PLAYER2
+Jugador 2
+
+PLAY_PLAYER3
+Jugador 3
+
+SCORE_TITLE
+Puntuación final
+
+SCORE_PANELES
+Paneles resueltos
+
+SCORE_PUNTOS
+Puntuación
+
+SCORE_GANADOR
+Ganador: 
+
+SCORE_EMPATE
+Empate
+
+SCORE_NINGUNO
+Ninguno
+
+SCORE_CONTINUAR
+Continuar

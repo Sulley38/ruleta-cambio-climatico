@@ -1,0 +1,110 @@
+START_TITLE1
+THE WHEEL OF
+
+START_TITLE2
+CLIMATE CHANGE
+
+START_PLAYERS
+Players:
+
+START_JUGAR
+Play
+
+START_SALIR
+Exit
+
+STATUS_CONGRATS
+¡Congratulations!
+
+STATUS_SEGURO
+Are you sure you want to quit?
+
+STATUS_ESCOGE_CONSONANTE
+Choose a consonant, please
+
+STATUS_SELECCIONA_VOCAL
+Select a vowel or press "Cancel"
+
+STATUS_DEBE_RESOLVER
+You must press "Solve"
+
+STATUS_DEBE_COMPRAR
+You have to press "Buy vowel"
+
+STATUS_DINERO_INSUFICIENTE
+You do not have enough money (Cost: 100 £)
+
+STATUS_EQUIVOCADO
+You missed! You will not play next puzzle
+
+STATUS_EQUIVOCADO_SOLO
+You missed!
+
+STATUS_TIEMPO_AGOTADO
+Time is over, you lose your turn
+
+STATUS_CONSONANTE_ERRONEA
+That consonant is not in the puzzle
+
+STATUS_VOCAL_ERRONEA
+That vowel is not in the puzzle
+
+STATUS_PRIMERO_TIRA
+Spin the wheel, please
+
+PLAY_TIRAR
+Spin
+
+PLAY_COMPRAR
+Buy vowel
+
+PLAY_RESOLVER
+Solve
+
+PLAY_SALIR
+Quit
+
+PLAY_CANCELAR
+Cancel
+
+PLAY_REINICIAR
+Restart
+
+PLAY_JUGAR
+Play again
+
+PLAY_SI
+Yes
+
+PLAY_NO
+No
+
+PLAY_PLAYER1
+Player 1
+
+PLAY_PLAYER2
+Player 2
+
+PLAY_PLAYER3
+Player 3
+
+SCORE_TITLE
+Final score
+
+SCORE_PANELES
+Solved puzzles
+
+SCORE_PUNTOS
+Total score
+
+SCORE_GANADOR
+Winner: 
+
+SCORE_EMPATE
+Tie
+
+SCORE_NINGUNO
+None
+
+SCORE_CONTINUAR
+Continue
