@@ -1,3 +1,22 @@
+/*  Copyright 2009, 2010 Iván Matellanes
+ *
+ *  This file is part of La ruleta del cambio climático.
+ *
+ *  La ruleta del cambio climático is free software: you can redistribute
+ *  it and/or modify it under the terms of the GNU General Public License
+ *  as published by the Free Software Foundation, either version 3 of the
+ *  License, or (at your option) any later version.
+ *
+ *  La ruleta del cambio climático is distributed in the hope that it will
+ *  be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with La ruleta del cambio climático is distributed. 
+ *  If not, see <http://www.gnu.org/licenses/>.
+ */
+
 #include "Fuente.h"
 
 void CFuente::Escanear( const std::string& szPath, int iPixelSombreado, Uint8 R, Uint8 G, Uint8 B, Uint8 A )
@@ -86,8 +105,8 @@ void CFuente::Escribir( SDL_Surface* pDestSurface, const std::string& szTexto, i
     }
     else
     {
-        SDL_Rect Orig = { 0, 1, 0, m_sImagen->h };
-        SDL_Rect Dest = { X, Y, 0, 0 };
+        SDL_Rect Orig = { 0, 1, 0, (short unsigned)m_sImagen->h };
+        SDL_Rect Dest = { (short)X, (short)Y, 0, 0 };
 
         for( int i = 0; szTexto[i] != 0; i++ )
         {

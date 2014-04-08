@@ -1,4 +1,23 @@
-﻿#include "ObjPanel.h"
+/*  Copyright 2009, 2010 Iván Matellanes
+ *
+ *  This file is part of La ruleta del cambio climático.
+ *
+ *  La ruleta del cambio climático is free software: you can redistribute
+ *  it and/or modify it under the terms of the GNU General Public License
+ *  as published by the Free Software Foundation, either version 3 of the
+ *  License, or (at your option) any later version.
+ *
+ *  La ruleta del cambio climático is distributed in the hope that it will
+ *  be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with La ruleta del cambio climático is distributed. 
+ *  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+#include "ObjPanel.h"
 
 // Carácteres válidos para el panel
 const std::string CPanel::m_szValidos = "0ABCDEFGHIJKLMN\xD1OPQRSTUVWXYZabcdefghijklmn\xF1opqrstuvwxyz\xE1\xE9\xED\xF3\xFA\xC1\xC9\xCD\xD3\xDA\xBF?\xA1!\xAD, ";
